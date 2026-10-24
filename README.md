@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Xlr8mozzik/Xlr8mozzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Akshay Kumar KV
 
-Here are some ideas to get you started:
+### Digital Marketer & Creative Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on digital marketing, search engine optimization, WordPress websites, and creative design to help businesses build a stronger online presence.
+
+🌐 **Portfolio:** [akshaykumarkv.in](https://akshaykumarkv.in/)
+
+### Skills & Interests
+- Search Engine Optimization (SEO)
+- Digital Marketing
+- WordPress Website Development
+- Creative & Graphic Design
+- Website Optimization
+
+### My Work
+Visit my portfolio to explore my projects, skills, and digital marketing work.
+
+**Let's connect:** [My Portfolio](https://akshaykumarkv.in/)
